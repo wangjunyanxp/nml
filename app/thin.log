@@ -2134,3 +2134,17 @@ NameError - undefined local variable or method `ip' for #<Nml:0x00000001c3b260>:
 >> Thin web server (v1.2.11 codename Bat-Shit Crazy)
 >> Maximum connections set to 1024
 >> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop

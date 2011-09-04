@@ -78,7 +78,10 @@ class Nml < Sinatra::Base
 
   def get_release(uuid)
     if uuid == '40f9d7c1-446c-b601-2911-001a6499e750'
-      'centos-6.0-x86_64'
+      # 'centos-6.0-x86_64'
+      # 'centos-6.0-i386'
+       'centos-5.6-x86_64'
+      # 'centos-6.0-i386'
     else
       'ubuntu-lucid-amd64'
     end

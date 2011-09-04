@@ -37,8 +37,8 @@ install
 part /boot --fstype ext2 --size 250
 part pv.01 --size 1 --grow
 volgroup vg pv.01
-logvol / --vgname=vg --size=1 --grow --fstype ext4 --name=root
-logvol /tmp --vgname=vg --size=1024 --fstype ext4 --name=tmp
+logvol / --vgname=vg --size=1 --grow --fstype ext3 --name=root
+logvol /tmp --vgname=vg --size=1024 --fstype ext3 --name=tmp
 logvol swap --vgname=vg --recommended --name=swap
 
 %packages
