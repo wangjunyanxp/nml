@@ -1,0 +1,2136 @@
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Exiting!
+/opt/web/nml/app/config.ru:6:in `require': /opt/web/nml/app/app.rb:18: syntax error, unexpected ')', expecting '=' (SyntaxError)
+/opt/web/nml/app/app.rb:20: syntax error, unexpected keyword_end, expecting ')'
+	from /opt/web/nml/app/config.ru:6:in `block in <main>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/builder.rb:51:in `instance_eval'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/builder.rb:51:in `initialize'
+	from /opt/web/nml/app/config.ru:1:in `new'
+	from /opt/web/nml/app/config.ru:1:in `<main>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/rack/adapter/loader.rb:36:in `eval'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/rack/adapter/loader.rb:36:in `load'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:181:in `load_rackup_config'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:71:in `start'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Exiting!
+/opt/web/nml/app/config.ru:6:in `require': /opt/web/nml/app/app.rb:18: syntax error, unexpected ')', expecting '=' (SyntaxError)
+/opt/web/nml/app/app.rb:20: syntax error, unexpected keyword_end, expecting ')'
+	from /opt/web/nml/app/config.ru:6:in `block in <main>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/builder.rb:51:in `instance_eval'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/builder.rb:51:in `initialize'
+	from /opt/web/nml/app/config.ru:1:in `new'
+	from /opt/web/nml/app/config.ru:1:in `<main>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/rack/adapter/loader.rb:36:in `eval'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/rack/adapter/loader.rb:36:in `load'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:181:in `load_rackup_config'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:71:in `start'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Exiting!
+/opt/web/nml/app/config.ru:6:in `require': /opt/web/nml/app/app.rb:1: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '(' (SyntaxError)
+d-i console-setup/ask_detect boolean false
+           ^
+/opt/web/nml/app/app.rb:1: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '('
+d-i console-setup/ask_detect boolean false
+                                    ^
+	from /opt/web/nml/app/config.ru:6:in `block in <main>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/builder.rb:51:in `instance_eval'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/builder.rb:51:in `initialize'
+	from /opt/web/nml/app/config.ru:1:in `new'
+	from /opt/web/nml/app/config.ru:1:in `<main>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/rack/adapter/loader.rb:36:in `eval'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/rack/adapter/loader.rb:36:in `load'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:181:in `load_rackup_config'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:71:in `start'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+NameError - undefined local variable or method `preseed' for #<Nml:0x0000000298d5a8>:
+ /opt/web/nml/app/app.rb:17:in `install'
+ /opt/web/nml/app/app.rb:30:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+NameError - undefined local variable or method `prefix' for #<Nml:0x00000001c8a900>:
+ /opt/web/nml/app/app.rb:17:in `install'
+ /opt/web/nml/app/app.rb:30:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Exiting!
+/opt/web/nml/app/config.ru:6:in `require': /opt/web/nml/app/app.rb:20: syntax error, unexpected tSTRING_BEG, expecting ']' (SyntaxError)
+      "netcfg/get_domain=.nml"
+       ^
+/opt/web/nml/app/app.rb:21: syntax error, unexpected ',', expecting keyword_end
+/opt/web/nml/app/app.rb:22: syntax error, unexpected ',', expecting keyword_end
+/opt/web/nml/app/app.rb:23: syntax error, unexpected ',', expecting keyword_end
+/opt/web/nml/app/app.rb:24: syntax error, unexpected ',', expecting keyword_end
+/opt/web/nml/app/app.rb:25: syntax error, unexpected ',', expecting keyword_end
+/opt/web/nml/app/app.rb:26: syntax error, unexpected ',', expecting keyword_end
+/opt/web/nml/app/app.rb:27: syntax error, unexpected ',', expecting keyword_end
+/opt/web/nml/app/app.rb:28: syntax error, unexpected ',', expecting keyword_end
+/opt/web/nml/app/app.rb:29: syntax error, unexpected ',', expecting keyword_end
+/opt/web/nml/app/app.rb:30: syntax error, unexpected ',', expecting keyword_end
+/opt/web/nml/app/app.rb:32: syntax error, unexpected ']', expecting keyword_end
+	from /opt/web/nml/app/config.ru:6:in `block in <main>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/builder.rb:51:in `instance_eval'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/builder.rb:51:in `initialize'
+	from /opt/web/nml/app/config.ru:1:in `new'
+	from /opt/web/nml/app/config.ru:1:in `<main>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/rack/adapter/loader.rb:36:in `eval'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/rack/adapter/loader.rb:36:in `load'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:181:in `load_rackup_config'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:71:in `start'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+TypeError - can't convert Fixnum into String:
+ /opt/web/nml/app/app.rb:56:in `sub'
+ /opt/web/nml/app/app.rb:56:in `get_gateway'
+ /opt/web/nml/app/app.rb:69:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+NoMethodError - undefined method `get_ipadd' for #<Nml:0x000000021efa08>:
+ /opt/web/nml/app/app.rb:74:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+NameError - undefined local variable or method `request_headers' for #<Nml:0x000000023998b8>:
+ /opt/web/nml/app/app.rb:8:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:79:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+NoMethodError - undefined method `x_forwarded_for' for #<Hash:0x00000001886b38>:
+ /opt/web/nml/app/app.rb:11:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:82:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+NameError - undefined local variable or method `x_forwarded_for' for #<Nml:0x00000003695160>:
+ /opt/web/nml/app/app.rb:11:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:82:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+NoMethodError - undefined method `call' for "1.2.3.4,1.1.1.1":String:
+ /opt/web/nml/app/app.rb:11:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:82:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+TypeError - can't convert nil into String:
+ /opt/web/nml/app/app.rb:11:in `sub'
+ /opt/web/nml/app/app.rb:11:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:82:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+ArgumentError - wrong number of arguments (1 for 0):
+ /opt/web/nml/app/app.rb:10:in `extract_remoteip'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+NoMethodError - undefined method `scan' for nil:NilClass:
+ /opt/web/nml/app/app.rb:11:in `get_real_ipaddr'
+ /opt/web/nml/app/app.rb:69:in `get_ipaddr'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+NoMethodError - undefined method `sub' for nil:NilClass:
+ /opt/web/nml/app/app.rb:65:in `get_gateway'
+ /opt/web/nml/app/app.rb:78:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+NameError - undefined local variable or method `ip' for #<Nml:0x00000001caba38>:
+ /opt/web/nml/app/app.rb:55:in `install'
+ /opt/web/nml/app/app.rb:107:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+NameError - undefined local variable or method `ip' for #<Nml:0x00000001c3b260>:
+ /opt/web/nml/app/app.rb:55:in `install'
+ /opt/web/nml/app/app.rb:107:in `block in <class:Nml>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1152:in `block in compile!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:724:in `route_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:708:in `block (2 levels) in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:758:in `block in process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:755:in `process_route'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:707:in `block in route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `each'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:706:in `route!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:843:in `dispatch!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `block in call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `instance_eval'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `block in invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:808:in `invoke'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:644:in `call!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:629:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/head.rb:9:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `block in call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1303:in `synchronize'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/sinatra-1.2.6/lib/sinatra/base.rb:1272:in `call'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:84:in `block in pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `catch'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:82:in `pre_process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:57:in `process'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/connection.rb:42:in `receive_data'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run_machine'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/eventmachine-0.12.10/lib/eventmachine.rb:256:in `run'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/backends/base.rb:61:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/server.rb:159:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:86:in `start'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+ /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Exiting!
+/opt/web/nml/app/config.ru:6:in `require': /opt/web/nml/app/app.rb:65: syntax error, unexpected tSTRING_BEG, expecting ']' (SyntaxError)
+        "lang=en_US",
+         ^
+/opt/web/nml/app/app.rb:65: syntax error, unexpected ',', expecting keyword_end
+/opt/web/nml/app/app.rb:66: syntax error, unexpected ',', expecting keyword_end
+/opt/web/nml/app/app.rb:67: syntax error, unexpected ',', expecting keyword_end
+	from /opt/web/nml/app/config.ru:6:in `block in <main>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/builder.rb:51:in `instance_eval'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/builder.rb:51:in `initialize'
+	from /opt/web/nml/app/config.ru:1:in `new'
+	from /opt/web/nml/app/config.ru:1:in `<main>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/rack/adapter/loader.rb:36:in `eval'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/rack/adapter/loader.rb:36:in `load'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:181:in `load_rackup_config'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:71:in `start'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Exiting!
+/opt/web/nml/app/config.ru:6:in `require': /opt/web/nml/app/app.rb:68: syntax error, unexpected tSTRING_BEG, expecting ']' (SyntaxError)
+        "lang=en_US",
+         ^
+/opt/web/nml/app/app.rb:68: syntax error, unexpected ',', expecting keyword_end
+/opt/web/nml/app/app.rb:69: syntax error, unexpected ',', expecting keyword_end
+/opt/web/nml/app/app.rb:70: syntax error, unexpected ',', expecting keyword_end
+	from /opt/web/nml/app/config.ru:6:in `block in <main>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/builder.rb:51:in `instance_eval'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/builder.rb:51:in `initialize'
+	from /opt/web/nml/app/config.ru:1:in `new'
+	from /opt/web/nml/app/config.ru:1:in `<main>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/rack/adapter/loader.rb:36:in `eval'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/rack/adapter/loader.rb:36:in `load'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:181:in `load_rackup_config'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:71:in `start'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Exiting!
+/opt/web/nml/app/config.ru:6:in `require': /opt/web/nml/app/app.rb:66: syntax error, unexpected tIDENTIFIER, expecting keyword_do or '{' or '(' (SyntaxError)
+        "method=http://%s%s", [@@master, to_path release],
+                                                        ^
+/opt/web/nml/app/app.rb:67: syntax error, unexpected ',', expecting keyword_end
+/opt/web/nml/app/app.rb:68: syntax error, unexpected ',', expecting keyword_end
+/opt/web/nml/app/app.rb:69: syntax error, unexpected ',', expecting keyword_end
+	from /opt/web/nml/app/config.ru:6:in `block in <main>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/builder.rb:51:in `instance_eval'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/rack-1.3.2/lib/rack/builder.rb:51:in `initialize'
+	from /opt/web/nml/app/config.ru:1:in `new'
+	from /opt/web/nml/app/config.ru:1:in `<main>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/rack/adapter/loader.rb:36:in `eval'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/rack/adapter/loader.rb:36:in `load'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:181:in `load_rackup_config'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/controllers/controller.rb:71:in `start'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:185:in `run_command'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/lib/thin/runner.rb:151:in `run!'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/gems/thin-1.2.11/bin/thin:6:in `<top (required)>'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `load'
+	from /home/aoti/.rvm/gems/ruby-1.9.2-p290/bin/thin:19:in `<main>'
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop
+>> Stopping ...
+>> Exiting!
+>> Writing PID to /opt/web/nml/app/nml.pid
+>> Changing process privilege to aoti:aoti
+>> Thin web server (v1.2.11 codename Bat-Shit Crazy)
+>> Maximum connections set to 1024
+>> Listening on 0.0.0.0:8080, CTRL+C to stop

@@ -1,0 +1,14 @@
+---
+    environment: production
+    chdir: /opt/web/nml/app
+    address: 0.0.0.0
+    user: aoti
+    group: aoti
+    port: 8080
+    pid: /opt/web/nml/app/nml.pid
+    rackup: /opt/web/nml/app/config.ru
+    log: /opt/web/nml/app/thin.log
+    max_conns: 1024
+    timeout: 30
+    max_persistent_conns: 512
+    daemonize: true

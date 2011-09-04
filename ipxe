@@ -1,0 +1,2 @@
+#!ipxe
+chain http://10.132.17.108/nml/chain/${manufacturer}/${product}/${uuid}?mac=${net0/mac}

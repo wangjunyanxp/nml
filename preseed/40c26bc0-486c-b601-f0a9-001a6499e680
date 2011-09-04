@@ -1,0 +1,42 @@
+d-i mirror/country string CN
+d-i mirror/http/mirror  select  mirror.lupaworld.com
+d-i mirror/http/proxy string http://10.132.17.108:3142/
+d-i clock-setup/utc boolean true
+d-i clock-setup/ntp-server string 61.172.254.29
+d-i time/zone string Asia/Shanghai
+
+d-i passwd/user-fullname string aoti
+d-i passwd/username string aoti
+d-i passwd/user-password password WD#sd7258
+d-i passwd/user-password-again password WD#sd7258
+d-i user-setup/encrypt-home boolean false
+d-i user-setup/allow-password-weak boolean true
+
+d-i pkgsel/update-policy select none
+d-i pkgsel/upgrade select full-upgrade
+d-i pkgsel/include string openssh-server ntpdate bash-completion vim pentium-builder make build-essential autoconf automake libtool libreadline-dev libssl-dev libpcre3 libpcre3-dev libperl-dev git-core curl ifstat dstat
+
+d-i grub-installer/only_debian boolean true
+d-i grub-installer/with_other_os boolean true
+d-i finish-install/reboot_in_progress note
+
+d-i partman-auto/method string lvm
+
+d-i partman-lvm/confirm boolean true
+d-i partman-lvm/device_remove_lvm boolean true
+d-i partman-auto-lvm/guided_size string max
+d-i partman-lvm/confirm boolean true
+d-i partman-lvm/confirm_nooverwrite boolean true
+
+d-i partman-auto/choose_recipe select atomic
+d-i partman/confirm_write_new_label boolean true
+d-i partman/confirm_nooverwrite boolean true
+d-i partman/choose_partition select finish
+d-i partman/confirm boolean true
+
+
+d-i base-installer/kernel/override-image string linux-server
+
+tasksel tasksel/first multiselect standard
+d-i pkgsel/language-packs multiselect en, zh
+d-i pkgsel/updatedb boolean true
