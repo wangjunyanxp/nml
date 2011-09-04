@@ -41,20 +41,16 @@ logvol / --vgname=vg --size=1 --grow --fstype ext3 --name=root
 logvol /tmp --vgname=vg --size=1024 --fstype ext3 --name=tmp
 logvol swap --vgname=vg --recommended --name=swap
 
-%packages
-openssh-server
-vim-enhanced
-curl
-git
-%end
-
 %pre --log=/var/log/ks_pre.log
 echo 'enter ks pre stage...'
 date +%Y-%m-%dT%H:%m:%S
-%end
 
 %post --log=/var/log/ks_post.log
 echo 'enter ks post stage...'
 date +%Y-%m-%dT%H:%m:%S
 chkconfig sshd on
-%end
+
+%packages
+openssh-server
+vim-enhanced
+curl
