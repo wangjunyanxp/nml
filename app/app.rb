@@ -31,25 +31,25 @@ class Nml < Sinatra::Base
 
       configs = [
         #"archisobasedir=arch",
-        "archisolabel=5b77c072-b18e-4f2a-8420-1588dff456bc",
-        "autostep",
-        "console-tools/archs=skip-config",
-        "console-keymaps-at/keymap=us",
-        "vga=normal",
-        "netcfg/confirm_static=true",
-        "netcfg/disable_dhcp=true",
-        "netcfg/get_hostname=#{hostname}",
-        "netcfg/get_domain=.nml",
-        "netcfg/get_nameservers=%s" % [@@dns],
-        "netcfg/get_ipaddress=#{ipaddr}",
-        "netcfg/get_netmask=255.255.255.0",
-        "netcfg/get_gateway=#{gateway}",
-        "console-setup/ask_detect=false",
-        "console-setup/layoutcode=us",
-        "locale=en_US.UTF-8",
-        "interface=#{iface}",
+        #"archisolabel=5b77c072-b18e-4f2a-8420-1588dff456bc",
+        # "autostep",
+        # "console-tools/archs=skip-config",
+        # "console-keymaps-at/keymap=us",
+          "nomodeset",
+        # "netcfg/confirm_static=true",
+        # "netcfg/disable_dhcp=true",
+        # "netcfg/get_hostname=#{hostname}",
+        # "netcfg/get_domain=.nml",
+        # "netcfg/get_nameservers=%s" % [@@dns],
+        # "netcfg/get_ipaddress=#{ipaddr}",
+        # "netcfg/get_netmask=255.255.255.0",
+        # "netcfg/get_gateway=#{gateway}",
+        # "console-setup/ask_detect=false",
+        # "console-setup/layoutcode=us",
+        # "locale=en_US.UTF-8",
+        # "interface=#{iface}",
         "console=ttyS0,#{baudrate}n8",
-        "initrd=#{release}/archiso.img",
+        "initrd=#{release}/initrd.img",
       ]
 
       append = indent + 'append ' + configs.join(' ')
@@ -126,7 +126,8 @@ class Nml < Sinatra::Base
       # 'centos-5.6-i386'
       # 'ubuntu-lucid-i386'
       # 'ubuntu-natty-i386'
-        'ubuntu-natty-amd64'
+      # 'ubuntu-natty-amd64'
+        'archlinux-201108-x86_64'
     elsif uuid == '40c26bc0-486c-b601-f0a9-001a6499e680'
       # 'archlinux-201108-i686'
       # 'archlinux-201108-x86_64'
